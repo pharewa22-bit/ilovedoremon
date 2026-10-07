@@ -1,0 +1,8 @@
+{
+  "name": "Media Smart – รู้ทันสื่อดิจิทัล",
+  "description": "เว็บแอปพลิเคชันเพื่อการศึกษาสำหรับนิสิตนักศึกษา เพื่อการรู้เท่าทันสื่อดิจิทัล ตรวจจับข่าวปลอมและสื่อ AI พร้อมจำลองสถานการณ์จริงและรับเกียรติบัตร",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
